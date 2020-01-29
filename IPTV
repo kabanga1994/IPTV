@@ -349,142 +349,141 @@ https://1088658152.rsc.cdn77.org/1088658152/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST SPORTS FOCUS 240p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_455874997.png" group-title="STARTIMESGO",ST SPORTS FOCUS 240p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_300_320x240_197192/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST SPORTS FOCUS 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_455874997.png" group-title="STARTIMESGO",ST SPORTS FOCUS 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_650_480x360_197194/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST SPORTS FOCUS 480p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-955113695.png" group-title="STARTIMESGO",ST SPORTS FOCUS 480p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_UHD_1042_1000_640x480_306820/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST SPORTS PREMIUM 240p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1497572737.png" group-title="STARTIMESGO",ST SPORTS PREMIUM 240p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_980_300_320x240_197232/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST SPORTS PREMIUM 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1497572737.png" group-title="STARTIMESGO",ST SPORTS PREMIUM 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_980_650_480x360_197234/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST SPORTS PREMIUM 480p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1497572737.png" group-title="STARTIMESGO",ST SPORTS PREMIUM 480p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000_640x480_306418/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST WORLD FOOTBALL 240p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-2080553815.png" group-title="STARTIMESGO",ST WORLD FOOTBALL 240p
 http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_996_300_320x240_210852/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST WORLD FOOTBALL 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-2080553815.png" group-title="STARTIMESGO",ST WORLD FOOTBALL 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_996_650_480x360_210854/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST WORLD FOOTBALL 480p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-2080553815.png" group-title="STARTIMESGO",ST WORLD FOOTBALL 480p
 http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST WORLD ADEPA 480p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/7b3b7c20-0dbd-4d02-b89f-2aab0c1d8d6a.png" group-title="STARTIMESGO",ST WORLD ADEPA 480p
 http://ms-azure-video.gslb.startimestv.com/live/ST_ADEPA_UHD_1038_1000_640x480_301858/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST SPORTS LIFE 240p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1802743986.png" group-title="STARTIMESGO",ST SPORTS LIFE 240p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_976_300_320x240_197204/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST SPORTS LIFE 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1802743986.png" group-title="STARTIMESGO",ST SPORTS LIFE 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_976_650_480x360_197206/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST SPORTS LIFE 480p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1802743986.png" group-title="STARTIMESGO",ST SPORTS LIFE 480p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO"",ST SPORTS ARENA 240p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_455874997.png" group-title="STARTIMESGO",ST SPORTS ARENA 240p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_300_320x240_197192/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO"",ST SPORTS ARENA 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_455874997.png" group-title="STARTIMESGO",ST SPORTS ARENA 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_972_650_480x360_197194/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO"",ST SPORTS ARENA 480p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_455874997.png" group-title="STARTIMESGO",ST SPORTS ARENA 480p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
-#EXTINF:0,AMC SERIES 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/a9504fe1-451d-46b0-afad-357957d0e354.png" group-title="STARTIMESGO",AMC SERIES 360p
 http://ms-azure-video.gslb.startimestv.com/live/AMC_Series_1070_500_480x360_424208/playlist.m3u8
-#EXTINF:0,AMC MOVIES 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/00dfa884-53fd-4ff6-8c86-c5d823807adc.png" group-title="STARTIMESGO",AMC MOVIES 360p
 http://ms-azure-video.gslb.startimestv.com/live/AMC_MOVIES_990_500_480x320_210830/playlist.m3u8
-#EXTINF:0,STAR LIFE 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/5db06fa4-7740-41a5-b293-67236c1c3bb4.jpg" group-title="STARTIMESGO",STAR LIFE 360p
 http://ms-azure-video.gslb.startimestv.com/live/STAR_LIFE_1034_500_480x360_277468/playlist.m3u8
-#EXTINF:0,ST NOVELA E 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_41075536.png" group-title="STARTIMESGO",ST NOVELA E 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_NOVELA_E_1026_500_480x360_265682/playlist.m3u8
-#EXTINF:0,BORDER TV 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/c59506eb-6eba-452d-9add-b2f6cbe6ac9f.png" group-title="STARTIMESGO",BORDER TV 360p
 http://ms-azure-video.gslb.startimestv.com/live/BORDER_TV_872_500_480x360_193968/playlist.m3u8
-#EXTINF:0,ST BOLLYWOOD 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/16a3c048-2910-4ed4-a2b2-81ca074c61de.jpg" group-title="STARTIMESGO",ST BOLLYWOOD 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_BOLLYWOOD_992_500_480x360_210838/playlist.m3u8
-#EXTINF:0,ST MOVIES PLUS 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_-434010899.png" group-title="STARTIMESGO",ST MOVIES PLUS 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_Movies_Plus_1170_500_480x360_710926/playlist.m3u8
-#EXTINF:0,ST NOLLYWOOD PLUS 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/dd49036c-5aae-41ad-87ec-e8ed63dbc55b.png" group-title="STARTIMESGO",ST NOLLYWOOD PLUS 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_NOLLYWOOD_PLUS_733_500_480x360_73715/playlist.m3u8
-#EXTINF:0,ST NOVELA PLUS 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_-1898472178.png" group-title="STARTIMESGO",ST NOVELA PLUS 360p
 http://ms-azure-video.gslb.startimestv.com/live_record/ST_NOVELA_E_PLUS_631_500_480x360_7781/playlist.m3u8
-#EXTINF:0,ST KUNGFU 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1141016517.png" group-title="STARTIMESGO",ST KUNGFU 360p
 http://ms-azure-video.gslb.startimestv.com/live_record/ST_KUNGFU_627_500_480x360_7771/playlist.m3u8
-#EXTINF:0,ST SINO DRAMA 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-867556708.png" group-title="STARTIMESGO",ST SINO DRAMA 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SINO_DRAMA_986_500_480x360_210816/playlist.m3u8
-#EXTINF:0,ST SWAHILI 360p
+#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST SWAHILI 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SWAHILI_854_500_480x360_191664/playlist.m3u8
-#EXTINF:0,TBC 1 360p
+#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",TBC 1 360p
 http://ms-azure-video.gslb.startimestv.com/live/TBC_1_908_500_480x360_194046/playlist.m3u8
-#EXTINF:0,STAR TV 360p
+#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",STAR TV 360p
 http://ms-azure-video.gslb.startimestv.com/live/STAR_TV_904_500_480x360_194038/playlist.m3u8
-#EXTINF:0,BUKKEDE TV1 360p
+#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",BUKKEDE TV1 360p
 http://ms-azure-video.gslb.startimestv.com/live/Bukkede_TV1_874_500_480x360_193972/playlist.m3u8
-#EXTINF:0,COLORS 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/5dfe9275-eb7d-4c03-a4e2-a16f1a51db55.jpg" group-title="STARTIMESGO",COLORS 360p
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
-#EXTINF:0,NBS TV 360p
+#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",NBS TV 360p
 http://ms-azure-video.gslb.startimestv.com/live/NBS_TV_922_500_480x360_195080/playlist.m3u8
-#EXTINF:0,BUKKEDE TV2 360p
+#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",BUKKEDE TV2 360p
 http://ms-azure-video.gslb.startimestv.com/live/Bukkede_TV2_876_500_480x360_193976/playlist.m3u8
-#EXTINF:0,ST YORUBA 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1091692591.png" group-title="STARTIMESGO",ST YORUBA 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_YORUBA_902_500_480x360_194034/playlist.m3u8
-#EXTINF:0,NTV UGA 360p
+#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",NTV UGA 360p
 http://ms-azure-video.gslb.startimestv.com/live/NTV_UGA_930_500_480x360_195096/playlist.m3u8
-#EXTINF:0,NTV 360p
+#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",NTV 360p
 http://ms-azure-video.gslb.startimestv.com/live/NTV_928_500_480x360_195092/playlist.m3u8
-#EXTINF:0,ST RISE 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/7324f1d5-ed32-4e96-afc1-a4ecba60111e.png" group-title="STARTIMESGO",ST RISE 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_Rise_852_500_480x360_191656/playlist.m3u8
-#EXTINF:0,KTN HOME 360p
+#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",KTN HOME 360p
 http://ms-azure-video.gslb.startimestv.com/live/KTN_HOME_916_500_480x360_195036/playlist.m3u8
-#EXTINF:0,K24 360p
+#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",K24 360p
 http://ms-azure-video.gslb.startimestv.com/live/K24_892_500_480x360_194014/playlist.m3u8
-#EXTINF:0,JIMJAM 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/a157e0d8-4c17-4224-994c-95e10baf2c03.jpg" group-title="STARTIMESGO",JIMJAM 360p
 http://ms-azure-video.gslb.startimestv.com/live/JIMJAM_890_500_480x360_194010/playlist.m3u8
-#EXTINF:0,ST KIDS 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/87ea7289-8d6a-49ff-a8a1-10774fc45000.jpg" group-title="STARTIMESGO",ST KIDS 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_KIDS_768_500_480x360_167446/playlist.m3u8
-#EXTINF:0,NICKELODEON 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1616726719.png" group-title="STARTIMESGO",NICKELODEON 360p
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_500_480x360_191620/playlist.m3u8
-#EXTINF:0,DA VINCI 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/180cd32e-8462-4eb2-a890-61bdb11d4b3a.jpg" group-title="STARTIMESGO",DA VINCI 360p
 http://ms-azure-video.gslb.startimestv.com/live/DA_VINCI_808_500_480x360_191178/playlist.m3u8
-#EXTINF:0,WASAFI TV 240p
+#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",WASAFI TV 240p
 http://ms-azure-video.gslb.startimestv.com/live/Wasafi_968_500_320x240_196856/playlist.m3u8
-#EXTINF:0,ST SOUL 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_420146374.png" group-title="STARTIMESGO",ST SOUL 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_Soul_946_500_480x360_195166/playlist.m3u8
-#EXTINF:0,ST SA MUSIC 360p
+#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST SA MUSIC 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SA_Music_900_500_480x360_194030/playlist.m3u8
-#EXTINF:0,ST NAIJA 360p
+#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST NAIJA 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_NAIJA_896_500_480x360_194022/playlist.m3u8
-#EXTINF:0,TRACE MZIKI 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_-1564471517.png" group-title="STARTIMESGO",TRACE MZIKI 360p
 http://ms-azure-video.gslb.startimestv.com/live/TRACE_MZIKI_952_500_480x360_195202/playlist.m3u8
-#EXTINF:0,AFRICA NEWS 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1971237749.png" group-title="STARTIMESGO",AFRICA NEWS 360p
 http://ms-azure-video.gslb.startimestv.com/live/AFRICA__NEWS_868_500_480x360_193960/playlist.m3u8
-#EXTINF:0,FRANCE 24 E 240p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1980138858.png" group-title="STARTIMESGO",FRANCE 24 E 240p
 http://ms-azure-video.gslb.startimestv.com/live/FRANCE_24_E_814_350_320x240_191244/playlist.m3u8
-#EXTINF:0,KTN NEWS 360p
+#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",KTN NEWS 360p
 http://ms-azure-video.gslb.startimestv.com/live/KTN_NEWS_918_500_480x360_195044/playlist.m3u8
-#EXTINF:0,CNC WORLD 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-2129297280.png" group-title="STARTIMESGO",CNC WORLD 360p
 http://ms-azure-video.gslb.startimestv.com/live/CNC_683_500_480x360_61649/playlist.m3u8
-#EXTINF:0,BBC WORLD NEWS 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/a920cdbe-8144-4db1-9848-d3a83e8eaf57.jpg" group-title="STARTIMESGO",BBC WORLD NEWS 360p
 http://ms-azure-video.gslb.startimestv.com/live/BBC_WORLD_NEWS_818_500_480x360_191582/playlist.m3u8
-#EXTINF:0,FOX NEWS 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1289273448.png" group-title="STARTIMESGO",FOX NEWS 360p
 http://ms-azure-video.gslb.startimestv.com/live/FOX_News_786_500_480x360_191112/playlist.m3u8
-#EXTINF:0,CGTN 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_-1009427255.png" group-title="STARTIMESGO",CGTN 360p
 http://ms-azure-video.gslb.startimestv.com/live/CGTN_982_500_480x360_203712/playlist.m3u8
-#EXTINF:0,AL JAZEERA 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_183210091.png" group-title="STARTIMESGO",AL JAZEERA 360p
 http://ms-azure-video.gslb.startimestv.com/live/AL_JAZEERA_998_350_480x360_210864/playlist.m3u8
-#EXTINF:0,AIT 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-2074604735.png" group-title="STARTIMESGO",AIT 360p
 http://ms-azure-video.gslb.startimestv.com/live/AIT_1142_500_480x360_531946/playlist.m3u8
-#EXTINF:0,CGTN DOCUMENTARY 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_-669473082.png" group-title="STARTIMESGO",CGTN DOCUMENTARY 360p
 http://ms-azure-video.gslb.startimestv.com/live/CGTN_DOCUMENTARY_1024_500_480x360_265088/playlist.m3u8
-#EXTINF:0,SMITHSONIAN CHANNEL 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/26ce4687-165d-4cdd-88ac-18277ade9249.png" group-title="STARTIMESGO",SMITHSONIAN CHANNEL 360p
 http://ms-azure-video.gslb.startimestv.com/live/SMITHSONIAN_CHANNEL_1166_500_480x360_662502/playlist.m3u8
-#EXTINF:0,LOVE NATURE 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/4fd34ff9-da89-49dd-80ec-14f8294b7ef1.png" group-title="STARTIMESGO",LOVE NATURE 360p
 http://ms-azure-video.gslb.startimestv.com/live/LOVE_NATURE_1164_500_480x360_662498/playlist.m3u8
-#EXTINF:0,MADANI CHANNEL 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/1ed36f4c-3d27-48f2-b784-c71644d8c046.png" group-title="STARTIMESGO",MADANI CHANNEL 360p
 http://ms-azure-video.gslb.startimestv.com/live/MADANI_CHANNEL_810_500_480x360_602210/playlist.m3u8
-#EXTINF:0,ST GOSPEL 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1109416446.png" group-title="STARTIMESGO",ST GOSPEL 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_Gospel_846_500_480x360_191640/playlist.m3u8
-#EXTINF:0,CCTV 13 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/CCTV-13%20app%20logo.jpg" group-title="STARTIMESGO",CCTV 13 360p
 http://ms-azure-video.gslb.startimestv.com/live/CCTV_13_647_500_480x360_48087/playlist.m3u8
-#EXTINF:0,FUJIAN TV 福建卫视 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_-423642964.png" group-title="STARTIMESGO",FUJIAN TV 福建卫视 360p
 http://ms-azure-video.gslb.startimestv.com/live/FUJIAN_TV_715_500_480x360_61713/playlist.m3u8
-#EXTINF:0,ZHEJIANG TV 浙江卫视 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-378709608.png" group-title="STARTIMESGO",ZHEJIANG TV 浙江卫视 360p
 http://ms-azure-video.gslb.startimestv.com/live/ZHEJIANG_TV_713_500_480x360_61709/playlist.m3u8
-#EXTINF:0,BEIJING TV 北京卫视 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-1669804676.png" group-title="STARTIMESGO",BEIJING TV 北京卫视 360p
 http://ms-azure-video.gslb.startimestv.com/live/BEIJING_TV_709_500_480x360_61701/playlist.m3u8
-#EXTINF:0,CCTV 4 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1434280779.png" group-title="STARTIMESGO",CCTV 4 360p
 http://ms-azure-video.gslb.startimestv.com/live/CCTV_4_659_500_480x360_54627/playlist.m3u8
-#EXTINF:0,ST CHINESE HOMELAND 中国影视 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/fcee569c-deaa-489a-99c5-9b1ae6166ad6.png" group-title="STARTIMESGO",ST CHINESE HOMELAND 中国影视 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_CHINESE_HOMELAND_657_500_480x360_51123/playlist.m3u8
-
