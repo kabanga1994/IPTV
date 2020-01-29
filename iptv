@@ -403,11 +403,11 @@ http://ms-azure-video.gslb.startimestv.com/live_record/ST_NOVELA_E_PLUS_631_500_
 http://ms-azure-video.gslb.startimestv.com/live_record/ST_KUNGFU_627_500_480x360_7771/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-867556708.png" group-title="STARTIMESGO",ST SINO DRAMA 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SINO_DRAMA_986_500_480x360_210816/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",ST SWAHILI 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1780519567.png" group-title="STARTIMESGO",ST SWAHILI 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_SWAHILI_854_500_480x360_191664/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",TBC 1 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_1456680487.png" group-title="STARTIMESGO",TBC 1 360p
 http://ms-azure-video.gslb.startimestv.com/live/TBC_1_908_500_480x360_194046/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",STAR TV 360p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_-936675875.png" group-title="STARTIMESGO",STAR TV 360p
 http://ms-azure-video.gslb.startimestv.com/live/STAR_TV_904_500_480x360_194038/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",BUKKEDE TV1 360p
 http://ms-azure-video.gslb.startimestv.com/live/Bukkede_TV1_874_500_480x360_193972/playlist.m3u8
@@ -437,7 +437,7 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_KIDS_768_500_480x360_167446/p
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_500_480x360_191620/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/180cd32e-8462-4eb2-a890-61bdb11d4b3a.jpg" group-title="STARTIMESGO",DA VINCI 360p
 http://ms-azure-video.gslb.startimestv.com/live/DA_VINCI_808_500_480x360_191178/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="STARTIMESGO",WASAFI TV 240p
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/eab7858b-6907-441a-b81a-7ffb1d6899b0.jpg" group-title="STARTIMESGO",WASAFI TV 240p
 http://ms-azure-video.gslb.startimestv.com/live/Wasafi_968_500_320x240_196856/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/banner/legacy/c_420146374.png" group-title="STARTIMESGO",ST SOUL 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_Soul_946_500_480x360_195166/playlist.m3u8
@@ -487,3 +487,4 @@ http://ms-azure-video.gslb.startimestv.com/live/BEIJING_TV_709_500_480x360_61701
 http://ms-azure-video.gslb.startimestv.com/live/CCTV_4_659_500_480x360_54627/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/fcee569c-deaa-489a-99c5-9b1ae6166ad6.png" group-title="STARTIMESGO",ST CHINESE HOMELAND 中国影视 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_CHINESE_HOMELAND_657_500_480x360_51123/playlist.m3u8
+
