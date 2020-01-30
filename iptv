@@ -488,3 +488,123 @@ http://ms-azure-video.gslb.startimestv.com/live/CCTV_4_659_500_480x360_54627/pla
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/fcee569c-deaa-489a-99c5-9b1ae6166ad6.png" group-title="STARTIMESGO",ST CHINESE HOMELAND 中国影视 360p
 http://ms-azure-video.gslb.startimestv.com/live/ST_CHINESE_HOMELAND_657_500_480x360_51123/playlist.m3u8
 
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/200px-Mbc1logo.png" group-title="MBC",MBC 1 180p
+http://livecdnh2.tvanywhere.ae/hls/mbc1/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/200px-Mbc1logo.png" group-title="MBC",MBC 1 234p
+http://livecdnh3.tvanywhere.ae/hls/mbc1/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/200px-Mbc1logo.png" group-title="MBC",MBC 1 360p
+http://livecdnh3.tvanywhere.ae/hls/mbc1/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/200px-Mbc1logo.png" group-title="MBC",MBC 1 480p
+http://livecdnh3.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/200px-Mbc1logo.png" group-title="MBC",MBC 1 720p
+http://livecdnh3.tvanywhere.ae/hls/mbc1/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/200px-Mbc1logo.png" group-title="MBC",MBC 1 1080p
+http://livecdnh3.tvanywhere.ae/hls/mbc1/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/MBC_2_current_logo.png/150px-MBC_2_current_logo.png" group-title="MBC",MBC 2 180p
+http://livecdnh3.tvanywhere.ae/hls/mbc2/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/MBC_2_current_logo.png/150px-MBC_2_current_logo.png" group-title="MBC",MBC 2 234p
+http://livecdnh3.tvanywhere.ae/hls/mbc2/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/MBC_2_current_logo.png/150px-MBC_2_current_logo.png" group-title="MBC",MBC 2 360p
+http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/MBC_2_current_logo.png/150px-MBC_2_current_logo.png" group-title="MBC",MBC 2 480p
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/MBC_2_current_logo.png/150px-MBC_2_current_logo.png" group-title="MBC",MBC 2 720p
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/MBC_2_current_logo.png/150px-MBC_2_current_logo.png" group-title="MBC",MBC 2 1080p
+http://livecdnh3.tvanywhere.ae/hls/mbc2/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg/160px-Mbc_3_Logo_TV_Channels_Official.jpg" group-title="MBC",MBC 3 180p
+http://livecdnh2.tvanywhere.ae/hls/mbc3/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg/160px-Mbc_3_Logo_TV_Channels_Official.jpg" group-title="MBC",MBC 3 234p
+http://livecdnh2.tvanywhere.ae/hls/mbc3/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg/160px-Mbc_3_Logo_TV_Channels_Official.jpg" group-title="MBC",MBC 3 360p
+http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg/160px-Mbc_3_Logo_TV_Channels_Official.jpg" group-title="MBC",MBC 3 480p
+http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg/160px-Mbc_3_Logo_TV_Channels_Official.jpg" group-title="MBC",MBC 3 720p
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg/160px-Mbc_3_Logo_TV_Channels_Official.jpg" group-title="MBC",MBC 3 1080p
+http://livecdnh2.tvanywhere.ae/hls/mbc3/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/MBC_4_logo.png/150px-MBC_4_logo.png" group-title="MBC",MBC 4 180p
+http://livecdnh3.tvanywhere.ae/hls/mbc4/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/MBC_4_logo.png/150px-MBC_4_logo.png" group-title="MBC",MBC 4 234p
+http://livecdnh3.tvanywhere.ae/hls/mbc4/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/MBC_4_logo.png/150px-MBC_4_logo.png" group-title="MBC",MBC 4 360p
+http://livecdnh3.tvanywhere.ae/hls/mbc4/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/MBC_4_logo.png/150px-MBC_4_logo.png" group-title="MBC",MBC 4 480p
+http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/MBC_4_logo.png/150px-MBC_4_logo.png" group-title="MBC",MBC 4 720p
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/MBC_4_logo.png/150px-MBC_4_logo.png" group-title="MBC",MBC 4 1080p
+http://livecdnh3.tvanywhere.ae/hls/mbc4/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Mbcactionlogo.png" group-title="MBC",MBC ACTION 180p
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Mbcactionlogo.png" group-title="MBC",MBC ACTION 234p
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Mbcactionlogo.png" group-title="MBC",MBC ACTION 360p
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Mbcactionlogo.png" group-title="MBC",MBC ACTION 480p
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Mbcactionlogo.png" group-title="MBC",MBC ACTION 720p
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Mbcactionlogo.png" group-title="MBC",MBC ACTION 1080p
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Mbc_plus_drama.jpg" group-title="MBC",MBC DRAMA 180p
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Mbc_plus_drama.jpg" group-title="MBC",MBC DRAMA 234p
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Mbc_plus_drama.jpg" group-title="MBC",MBC DRAMA 360p
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Mbc_plus_drama.jpg" group-title="MBC",MBC DRAMA 480p
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Mbc_plus_drama.jpg" group-title="MBC",MBC DRAMA 720p
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Mbc_plus_drama.jpg" group-title="MBC",MBC DRAMA 1080p
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/MBC_Max_2010_logo.svg/250px-MBC_Max_2010_logo.svg.png" group-title="MBC",MBC MAX 180p
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/MBC_Max_2010_logo.svg/250px-MBC_Max_2010_logo.svg.png" group-title="MBC",MBC MAX 234p
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/MBC_Max_2010_logo.svg/250px-MBC_Max_2010_logo.svg.png" group-title="MBC",MBC MAX 360p
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/MBC_Max_2010_logo.svg/250px-MBC_Max_2010_logo.svg.png" group-title="MBC",MBC MAX 480p
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/MBC_Max_2010_logo.svg/250px-MBC_Max_2010_logo.svg.png" group-title="MBC",MBC MAX  720p
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/MBC_Max_2010_logo.svg/250px-MBC_Max_2010_logo.svg.png" group-title="MBC",MBC MAX  1080p
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/MBC_Bollywood_logo.jpeg/250px-MBC_Bollywood_logo.jpeg" group-title="MBC",MBC BOLLYWOOD 180p
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/MBC_Bollywood_logo.jpeg/250px-MBC_Bollywood_logo.jpeg" group-title="MBC",MBC BOLLYWOOD 234p
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/MBC_Bollywood_logo.jpeg/250px-MBC_Bollywood_logo.jpeg" group-title="MBC",MBC BOLLYWOOD 360p
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/MBC_Bollywood_logo.jpeg/250px-MBC_Bollywood_logo.jpeg" group-title="MBC",MBC BOLLYWOOD 480p
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/MBC_Bollywood_logo.jpeg/250px-MBC_Bollywood_logo.jpeg" group-title="MBC",MBC BOLLYWOOD 720p
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/MBC_Bollywood_logo.jpeg/250px-MBC_Bollywood_logo.jpeg" group-title="MBC",MBC BOLLYWOOD 1080p
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Wikipedia-MBC-MASR-LOGO.jpg" group-title="MBC",MBC MASR 180p
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Wikipedia-MBC-MASR-LOGO.jpg" group-title="MBC",MBC MASR 234p
+http://livecdnh3.tvanywhere.ae/hls/mbc_msr/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Wikipedia-MBC-MASR-LOGO.jpg" group-title="MBC",MBC MASR 360p
+http://livecdnh3.tvanywhere.ae/hls/mbc_msr/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Wikipedia-MBC-MASR-LOGO.jpg" group-title="MBC",MBC MASR 480p
+http://livecdnh3.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Wikipedia-MBC-MASR-LOGO.jpg" group-title="MBC",MBC MASR 720p
+http://livecdnh3.tvanywhere.ae/hls/mbc_msr/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Wikipedia-MBC-MASR-LOGO.jpg" group-title="MBC",MBC MASR 1080p
+http://livecdnh3.tvanywhere.ae/hls/mbc_msr/06.m3u8
