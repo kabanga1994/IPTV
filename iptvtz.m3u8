@@ -613,7 +613,7 @@ http://livecdnh3.tvanywhere.ae/hls/mbc_msr/06.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/05/02/DStv_Ginx_Logo_4-3_light_background_lrg.png" group-title="DSTV",101 AZAM ONE
-http://now.dstv.com/livetv/play/16e85dd8-d0be-45a6-8f29-de83a04dd42f
+https://r-live-cache.akamaized.net/USL12/M30/M30.isml/.mpd
 #EXTINF:-1 tvg-logo="" group-title="DSTV",101 AZAM ONE
 https://1151586843.rsc.cdn77.org/1151586843/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DSTV",101 AZAM ONE
